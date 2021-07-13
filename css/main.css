@@ -1,0 +1,47 @@
+.bg-nav{
+background: #feffff;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: green;
+}
+.centrar {
+  text-align: center;
+}
+.form-control{
+    border: 1px solid green;
+    width: 80%;
+}
+
+.color-green{
+    color: green;
+}
+.color-btn-nav{
+    background: #feffff;
+}
+.bg-h1-notice{
+    background: #16728b;
+}
+.bg-header-2{
+    background: #333333;
+}
+.bg-header-4{
+    background: #feffff;
+}
+.text-color-menu{
+    color: #7b7b7b;
+}
+.text-green{
+    color: #246c87;
+}
+.size-menu{
+    font-size: 2.5rem
+}
+.size-menu-2{
+    font-size: 1.3rem
+}
+.size-menu-3{
+    font-size: 0.9rem
+}
+.border-bottom-h2{
+    border-bottom: 2px solid #246c87!important;
+}
